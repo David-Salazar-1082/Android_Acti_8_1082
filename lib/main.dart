@@ -197,3 +197,4 @@ class TransactionView extends StatelessWidget {
     );
   }
 }
+
